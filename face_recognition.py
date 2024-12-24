@@ -1,4 +1,4 @@
 def recognize_faces():
     # Mock implementation for face recognition
-    print('hi')
+    print('parthi')
     return "Attendance has been marked using face recognition."
